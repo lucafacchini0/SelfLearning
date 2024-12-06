@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "College Algebra/Equations/Solving Quadratic Expressions.md",
+                "file": "Math/College Algebra/Straight Line/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Solving Quadratic Expressions"
+              "title": "Introduction"
             }
           }
         ]
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "College Algebra/Equations/Solving Quadratic Expressions.md",
+                "file": "Math/College Algebra/Straight Line/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Solving Quadratic Expressions"
+              "title": "Riferimenti a Introduction"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "College Algebra/Equations/Solving Quadratic Expressions.md",
+                "file": "Math/College Algebra/Straight Line/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da Solving Quadratic Expressions"
+              "title": "Collegamenti in uscita da Introduction"
             }
           },
           {
@@ -155,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "College Algebra/Equations/Solving Quadratic Expressions.md"
+                "file": "Math/College Algebra/Straight Line/Introduction.md"
               },
               "icon": "lucide-list",
-              "title": "Struttura di Solving Quadratic Expressions"
+              "title": "Struttura di Introduction"
             }
           }
         ]
@@ -178,23 +178,24 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "c1ccb3e819d0bec6",
+  "active": "587d92362b7a4bfa",
   "lastOpenFiles": [
-    "College Algebra/Parabola/Introduction.md",
-    "College Algebra/Straight Line/Introduction.md",
+    "Math/College Algebra/Equations/Solving Quadratic Expressions.md",
+    "Math",
+    "Math/College Algebra/Parabola/Introduction.md",
+    "Math/College Algebra/Straight Line/Introduction.md",
     "Benvenuto.md",
-    "College Algebra/Equations/Solving Quadratic Expressions.md",
-    "College Algebra/Straight Line",
-    "College Algebra/Expressions/Rational Expressions.md",
-    "College Algebra/Expressions",
-    "College Algebra/Parabola",
-    "College Algebra/Equations",
-    "College Algebra/Factoring/Proprietà degli esponenti.md",
-    "College Algebra/Factoring/Factoring.md",
-    "College Algebra/Factoring",
-    "College Algebra/Images/Pasted image 20241130231428.png",
-    "College Algebra/Images/Pasted image 20241130231226.png",
-    "College Algebra/Images",
-    "College Algebra"
+    "Math/College Algebra/Straight Line",
+    "Math/College Algebra/Expressions/Rational Expressions.md",
+    "Math/College Algebra/Expressions",
+    "Math/College Algebra/Parabola",
+    "Math/College Algebra/Equations",
+    "Math/College Algebra/Factoring/Proprietà degli esponenti.md",
+    "Math/College Algebra/Factoring/Factoring.md",
+    "Math/College Algebra/Factoring",
+    "Math/College Algebra/Images/Pasted image 20241130231428.png",
+    "Math/College Algebra/Images/Pasted image 20241130231226.png",
+    "Math/College Algebra/Images",
+    "Math/College Algebra"
   ]
 }

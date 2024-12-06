@@ -1,6 +1,5 @@
 
 A straight line is the representation of infinite points in the Cartesian Plane. It's described with the following formula:
-
 $$ y = mx + b $$
 
 where:
