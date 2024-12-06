@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "d4d1821126870e15",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7d361d235e26cf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "587d92362b7a4bfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "College Algebra/Equations/Solving Quadratic Expressions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Solving Quadratic Expressions"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b3b8a2dac8977395",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87c1d0bbc8751761",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista grafo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b93606ec87796a5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e642969f7f73b5e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1ccb3e819d0bec6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "23307c79533e2810",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "3686759a1763e4a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d020d80327851bf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bdd2577abd4d07b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "193db150afdae950",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "College Algebra/Equations/Solving Quadratic Expressions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a Solving Quadratic Expressions"
+            }
+          },
+          {
+            "id": "3139ad916069782c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "College Algebra/Equations/Solving Quadratic Expressions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da Solving Quadratic Expressions"
+            }
+          },
+          {
+            "id": "3191b47c990ad5e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "a26fb89534a27cb3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "College Algebra/Equations/Solving Quadratic Expressions.md"
+              },
+              "icon": "lucide-list",
+              "title": "Struttura di Solving Quadratic Expressions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "c1ccb3e819d0bec6",
+  "lastOpenFiles": [
+    "College Algebra/Parabola/Introduction.md",
+    "College Algebra/Straight Line/Introduction.md",
+    "Benvenuto.md",
+    "College Algebra/Equations/Solving Quadratic Expressions.md",
+    "College Algebra/Straight Line",
+    "College Algebra/Expressions/Rational Expressions.md",
+    "College Algebra/Expressions",
+    "College Algebra/Parabola",
+    "College Algebra/Equations",
+    "College Algebra/Factoring/Proprietà degli esponenti.md",
+    "College Algebra/Factoring/Factoring.md",
+    "College Algebra/Factoring",
+    "College Algebra/Images/Pasted image 20241130231428.png",
+    "College Algebra/Images/Pasted image 20241130231226.png",
+    "College Algebra/Images",
+    "College Algebra"
+  ]
+}
