@@ -12,6 +12,7 @@ This repository is a collection of everything I'm learning, exploring, and creat
 - Computer Science
 - Mathematics
 - Economics
+- German Learning
 
 ## 🚀 Why This Repo?
 
