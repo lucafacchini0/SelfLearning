@@ -28,7 +28,7 @@ Legende
 | jung         | young          |
 | neu          | new            |
 | gut (Besser) | good (Better)  |
-| schlect      | bad            |
+| schlecht      | bad            |
 | warm         | warm           |
 
 ### Verbs
