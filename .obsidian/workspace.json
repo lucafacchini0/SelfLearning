@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch Lernen/README.md",
+                "file": "Time Spent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Time Spent"
             }
           }
         ]
@@ -164,8 +164,10 @@
   },
   "active": "587d92362b7a4bfa",
   "lastOpenFiles": [
-    "Math/College Algebra/README.md",
+    "Deutsch Lernen/Lieder.md",
     "Deutsch Lernen/README.md",
+    "Deutsch Lernen/Untitled",
+    "Math/College Algebra/README.md",
     "Math/College Algebra/Images/Pasted image 20241130231428.png",
     "Math/College Algebra/Images/Pasted image 20241130231226.png",
     "Math/College Algebra/Expressions/Rational Expressions.md",
