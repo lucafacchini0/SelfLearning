@@ -1,6 +1,7 @@
-| Date       | Time | Topics                                  |
-| ---------- | ---- | --------------------------------------- |
-| 11/12/2024 | 2h   | Algebra Logarithms (Exercises & Theory) |
-| 12/12/2024 | 1.5h | Learning German                         |
-| 13/12/2024 | 3h   | Created new personal website            |
+| Date       | Time | Topics                                                  |
+| ---------- | ---- | ------------------------------------------------------- |
+| 11/12/2024 | 2h   | Algebra Logarithms (Exercises & Theory)                 |
+| 12/12/2024 | 1.5h | Learning German                                         |
+| 13/12/2024 | 3h   | Created new personal website                            |
+| 17/12/2024 | 4h   | Math (Study of functions for Parabolas & Straight Line) |
 
