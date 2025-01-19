@@ -13,12 +13,60 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch Lernen/Wöchentliche Wörter/Woche 2/Woche 2.md",
+                "file": "Time Spent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Woche 2"
+              "title": "Time Spent"
+            }
+          },
+          {
+            "id": "2ea409bae031a2f4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20250119135035.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250119135035"
+            }
+          },
+          {
+            "id": "6d061f587422752a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20250119135014.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250119135014"
+            }
+          },
+          {
+            "id": "fde100e09cb8648c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20250119134938.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250119134938"
+            }
+          },
+          {
+            "id": "3181df1ac602c039",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20250119134915.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250119134915"
             }
           }
         ]
@@ -164,8 +212,21 @@
   },
   "active": "587d92362b7a4bfa",
   "lastOpenFiles": [
-    "Deutsch Lernen/Wöchentliche Wörter/Woche 1/Woche 1.md",
+    "Math/TOLC-I/CH1 - Numeri/1.1 - Insiemi.md",
+    "Math/TOLC-I/CH1 - Numeri/1.3 - Numeri relativi.md",
+    "Images/Pasted image 20250119142759.png",
+    "Images/Pasted image 20250119135014.png",
+    "Images/Pasted image 20250119134915.png",
+    "Images/Pasted image 20250119134938.png",
+    "Images/Pasted image 20250119135035.png",
+    "Math/TOLC-I/CH1 - Numeri/1.4 - Numeri razionali.md",
+    "Images",
+    "Math/TOLC-I/CH1 - Numeri/1.2 Numeri naturali.md",
+    "Math/TOLC-I/CH1 - Numeri",
     "Deutsch Lernen/Wöchentliche Wörter/Woche 2/Woche 2.md",
+    "Math/TOLC-I/CH1 - Numeri",
+    "Math/TOLC-I",
+    "Deutsch Lernen/Wöchentliche Wörter/Woche 1/Woche 1.md",
     "Deutsch Lernen/Lieder.md",
     "Time Spent.md",
     "Deutsch Lernen/Wöchentliche Wörter/Woche 2",
@@ -182,12 +243,8 @@
     "Math/College Algebra/Equations/Solving Quadratic Expressions.md",
     "README.md",
     "Math/College Algebra/Straight Line/Introduction.md",
-    "Math",
     "Math/College Algebra/Parabola/Introduction.md",
     "Benvenuto.md",
-    "Math/College Algebra/Straight Line",
-    "Math/College Algebra/Expressions",
-    "Math/College Algebra/Parabola",
     "Math/College Algebra/Factoring/Proprietà degli esponenti.md",
     "Math/College Algebra/Factoring/Factoring.md"
   ]
