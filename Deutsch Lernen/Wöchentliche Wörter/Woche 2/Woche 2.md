@@ -1,3 +1,7 @@
+# Woche 2
+
+---
+
 ### Wörter 
 
 | Wort         | Plural           | Übersetzung                    |
@@ -54,9 +58,11 @@
 | wir       | bereiten vor  | bereiteten vor  | werden vorbereiten |
 | ihr       | bereitet vor  | bereitetet vor  | werdet vorbereiten |
 | sie/Sie   | bereiten vor  | bereiteten vor  | werden vorbereiten |
+
 There is also zubereiten, the difference is that vorbereiten is generic, to get ready for something generic or get something generic ready, to prepare something, while zubereiten is referred to food / drinks
 
 ---
+
 
 ### 3. **singen** (cantare) (sing)
 
@@ -132,6 +138,7 @@ There is also zubereiten, the difference is that vorbereiten is generic, to get 
 |wir|treffen|trafen|werden treffen|
 |ihr|trefft|traft|werdet treffen|
 |sie/Sie|treffen|trafen|werden treffen|
+
 **treffen**: is used when you meet someone **intentionally**.
 - _Ich treffe meine Freunde morgen._ (I’m meeting my friends tomorrow.)
 - _Hast du ihn getroffen?_ (Did you meet him?)
